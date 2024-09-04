@@ -1,0 +1,5 @@
+worlds:
+  world:
+    max-y-limit: 8
+  arena:
+    max-y-limit: 85

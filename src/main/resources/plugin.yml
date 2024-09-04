@@ -1,0 +1,12 @@
+name: PyrexEPKorlat
+version: '${project.version}'
+main: org.pyrex.pyrexepkorlat.PyrexEPKorlat
+api-version: '1.20'
+commands:
+  pyrexepkorlatreload:
+    description: reloadol
+    usage: /pyrexepkorlatreload
+permissions:
+  pyrexepkorlat.reload:
+    description: reload perm
+    default: op
