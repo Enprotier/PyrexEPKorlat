@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.pyrex</groupId>
-  <artifactId>PyrexEPKorlat</artifactId>
-  <version>1.0</version>
+  <artifactId>PyrexEPFix</artifactId>
+  <version>2.0</version>
   <packaging>jar</packaging>
 
-  <name>PyrexEPKorlat</name>
+  <name>PyrexEPFix</name>
 
   <properties>
     <java.version>1.8</java.version>

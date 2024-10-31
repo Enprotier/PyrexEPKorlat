@@ -1,12 +1,9 @@
-name: PyrexEPKorlat
-version: '1.0'
-main: org.pyrex.pyrexepkorlat.PyrexEPKorlat
+name: PyrexEPFix
+version: '2.0'
+main: org.pyrex.pyrexepfix.PyrexEPFix
 api-version: '1.20'
 commands:
-  pyrexepkorlatreload:
-    description: reloadol
-    usage: /pyrexepkorlatreload
-permissions:
-  pyrexepkorlat.reload:
-    description: reload perm
-    default: op
+  pyrexepfix:
+    description: Reload the PyrexEPFix plugin
+    usage: /<command>
+    permission: pyrexepfix.admin

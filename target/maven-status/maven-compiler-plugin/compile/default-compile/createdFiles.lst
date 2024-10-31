@@ -1,3 +1,5 @@
-org\pyrex\pyrexepkorlat\commands\ReloadCommand.class
-org\pyrex\pyrexepkorlat\PyrexEPKorlat.class
-org\pyrex\pyrexepkorlat\listeners\EnderPearlListener.class
+org\pyrex\pyrexepfix\PyrexEPFix.class
+org\pyrex\pyrexepfix\listeners\EnderPearlListener$1.class
+org\pyrex\pyrexepfix\listeners\DeathListener.class
+org\pyrex\pyrexepfix\commands\ReloadCommand.class
+org\pyrex\pyrexepfix\listeners\EnderPearlListener.class

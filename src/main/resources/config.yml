@@ -1,3 +1,4 @@
+cooldown_time: 1
 worlds:
   world:
     max-y-limit: 8
